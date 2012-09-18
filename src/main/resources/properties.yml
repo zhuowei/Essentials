@@ -1,0 +1,6 @@
+name: Most Useless Plugin Ever
+version: 1.0
+description: This is the most useless plugin ever.
+author: zhuowei
+main: net.zhuoweizhang.useless.MostUselessPlugin
+platform: BOTH
